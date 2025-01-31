@@ -1,9 +1,9 @@
-Package: msstrings-JaminGhost
-Title: What the Package Does (One Line, Title Case)
+Package: msstringsJaminGhost
+Title: Extract and Display peptide modifications from spectronaut. 
 Version: 0.0.1
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Jamilet", "Cordon", email= "jc45@hood.edu", role = c("aut", "cre"))
+Description: A MSstrings package to extract metadat from annotated peptide sequences from Spectronaut. 
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8

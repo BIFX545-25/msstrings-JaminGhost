@@ -5,6 +5,7 @@ Authors@R:
     person("Jamilet", "Cordon", email= "jc45@hood.edu", role = c("aut", "cre"))
 Description: A MSstrings package to extract metadat from annotated peptide sequences from Spectronaut. 
 License: MIT + file LICENSE
+Depends: R (>= 2.10)
 BiocViews: 
 Imports: 
   Biostrings, 
@@ -14,3 +15,7 @@ Imports:
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
